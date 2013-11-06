@@ -11,8 +11,10 @@
     <form method="post">
       <label for="field1">Field 1</label>
       <input id="field1" type="text" name="field1">
+      <br />
       <label for="field2">Field 2</label>
       <input id="field2" type="text" name="field2">
+      <br />
       <input type="submit" value="Submit" />
     </form>
     <?php } ?>
