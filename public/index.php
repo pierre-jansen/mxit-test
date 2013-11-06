@@ -13,6 +13,7 @@
       <input id="field1" type="text" name="field1">
       <label for="field2">Field 2</label>
       <input id="field2" type="text" name="field2">
+      <input type="submit" value="Submit" />
     </form>
     <?php } ?>
   </body>
