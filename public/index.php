@@ -11,6 +11,8 @@
     <form method="post">
       Field 1
       <input type="text" name="field1">
+      Field 2
+      <input type="text" name="field2">
     </form>
     <?php } ?>
   </body>
