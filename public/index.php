@@ -9,9 +9,9 @@
     <?php } else { ?>
     <h1>Hello test2!</h1>
     <form method="post">
-      Field 1
+      <label for="field1">Field 1</label>
       <input type="text" name="field1">
-      Field 2
+      <label for="field2">Field 2</label>
       <input type="text" name="field2">
     </form>
     <?php } ?>
