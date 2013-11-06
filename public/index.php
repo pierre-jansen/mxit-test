@@ -10,9 +10,9 @@
     <h1>Hello test2!</h1>
     <form method="post">
       <label for="field1">Field 1</label>
-      <input type="text" name="field1">
+      <input id="field1" type="text" name="field1">
       <label for="field2">Field 2</label>
-      <input type="text" name="field2">
+      <input id="field2" type="text" name="field2">
     </form>
     <?php } ?>
   </body>
