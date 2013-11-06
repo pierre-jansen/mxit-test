@@ -6,6 +6,7 @@
     <?php if (! empty($_POST)) { ?>
     <h1>Posted!</h1>
     <p><?php print_r($_POST); ?></p>
+    <a href="https://m.wonga.co.za/">Go to site</a>
     <?php } else { ?>
     <h1>Hello test2!</h1>
     <form method="post">
