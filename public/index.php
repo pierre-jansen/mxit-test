@@ -3,7 +3,7 @@
     
   </head>
   <body>
-    <?php if (isset($_POST)) { ?>
+    <?php if (! empty($_POST)) { ?>
     <h1>Posted!</h1>
     <p><?php print_r($_POST); ?></p>
     <?php } else { ?>
